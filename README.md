@@ -124,4 +124,4 @@ Data Analysis and Visualization on Jamboree Education Data to provide insights a
 ## Description about files in repository <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="30" height="30" />:
 
 
-**Jamboree Education Business Case Study.ipynb** - Colaboratory notebook containing the code for analysis
+**Jamboree_Education_Linear_Regression_Case_Study.ipynb** - Colaboratory notebook containing the code for analysis
